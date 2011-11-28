@@ -1,0 +1,7 @@
+[Foomo]
+    git=git://github.com/foomo/Foomo.git
+	version=origin/master
+
+[Foomo.Docs]
+	git=git://github.com/foomo/Foomo.Docs.git
+	version=origin/master

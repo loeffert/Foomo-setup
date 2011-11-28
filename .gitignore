@@ -1,0 +1,8 @@
+*~
+.*
+!.git*
+/logs/*
+/sessions/*
+/config/*
+/var/*
+
